@@ -7,7 +7,7 @@ type Props = {
     Heading: string,
     solution?: React.ReactNode,
     nextQuestion?: string,
-    code?: any
+    code?: string
 }
 const Template: React.FC<Props> = ({ Heading, solution, nextQuestion, code }) => {
     const router = useRouter()
@@ -23,7 +23,7 @@ const Template: React.FC<Props> = ({ Heading, solution, nextQuestion, code }) =>
                         </div>
                         <div className='w-[700px] flex flex-col gap-8 bg-slate-700 rounded-lg p-4'>
                             <CopyClipBoard label='Terminal' CopiedCode={"npm i react-spinners"} />
-                            <CopyClipBoard label='Copy code' CopiedCode={code} />
+                            <CopyClipBoard label='Copy code' CopiedCode={code as string} />
                         </div>
                     </div>
                 </div>
