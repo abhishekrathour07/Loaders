@@ -15,6 +15,61 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/hashLoader/page.js"
+    ],
+    "/clock-loader/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/clock-loader/page.js"
+    ],
+    "/barLoader/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/barLoader/page.js"
+    ],
+    "/beatLoader/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/beatLoader/page.js"
+    ],
+    "/bounceLoader/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/bounceLoader/page.js"
+    ],
+    "/circleLoader/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/circleLoader/page.js"
+    ],
+    "/climbingBoxLoader/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/climbingBoxLoader/page.js"
+    ],
+    "/clipLoader/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/clipLoader/page.js"
+    ],
+    "/pulseLoader/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/pulseLoader/page.js"
+    ],
+    "/ringLoader/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/ringLoader/page.js"
+    ],
+    "/riseLoader/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/riseLoader/page.js"
+    ],
+    "/rotateLoader/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/rotateLoader/page.js"
     ]
   }
 }

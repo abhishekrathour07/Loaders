@@ -1,4 +1,10 @@
 {
   "/page": "app/page.js",
-  "/hashLoader/page": "app/hashLoader/page.js"
+  "/hashLoader/page": "app/hashLoader/page.js",
+  "/clock-loader/page": "app/clock-loader/page.js",
+  "/climbingBoxLoader/page": "app/climbingBoxLoader/page.js",
+  "/pulseLoader/page": "app/pulseLoader/page.js",
+  "/ringLoader/page": "app/ringLoader/page.js",
+  "/riseLoader/page": "app/riseLoader/page.js",
+  "/rotateLoader/page": "app/rotateLoader/page.js"
 }
